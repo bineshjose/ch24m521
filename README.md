@@ -7,7 +7,7 @@ _End-to-end Spark + MLflow + MinIO + FastAPI on WSL/Docker_
 > Everything is containerized and orchestrated with **Docker Compose** on **WSL2** (Windows 10/11).
 
 ---
-**Notes:ch24m521.zip contians full folder structure including DVC, .get etc**
+**Important Note:ch24m521.zip contians full folder structure including .dvc, .get etc**
 
 ## Components
 
