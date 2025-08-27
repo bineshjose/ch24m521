@@ -1,12 +1,14 @@
 # Building a Robust MLOps Pipeline  
 _End-to-end Spark + MLflow + MinIO + FastAPI on WSL/Docker_
 
+**Auther : Dr Binesh Jose , IIT Madras**
+
 > This repository contains a **complete, reproducible MLOps pipeline** for the classic **Titanic survival** prediction task. It demonstrates distributed preprocessing and training in **Apache Spark**, experiment tracking and **Model Registry** with **MLflow**, S3-style artifact storage on **MinIO**, **automated promotion** of the best model, **drift checks**, and a production-style **FastAPI** service for inference.  
 > Everything is containerized and orchestrated with **Docker Compose** on **WSL2** (Windows 10/11).
 
 ---
 
-## 0) What you get
+## Components
 
 - **Data pipeline**: fault-tolerant preprocessing + feature engineering in Spark.  
 - **Training**: LR / RF / GBT with small **HPO** grids; logs metrics, artifacts, and versions to MLflow.  
@@ -414,7 +416,7 @@ Ensure the registry has **at least one Production** version.
 
 ## 13) License & attribution
 
-- Code: specify your license in `LICENSE`.  
+- Code: IITM License terms and conditions for distribution  
 - Data: Titanic dataset © Kaggle / public domain sources; ensure you comply with their terms when distributing.
 
 ---
