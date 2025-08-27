@@ -1,7 +1,7 @@
 # Building a Robust MLOps Pipeline  
 _End-to-end Spark + MLflow + MinIO + FastAPI on WSL/Docker_
 
-**Auther : Dr Binesh Jose , IIT Madras**
+**Author : Dr Binesh Jose , IIT Madras**
 
 > This repository contains a **complete, reproducible MLOps pipeline** for the classic **Titanic survival** prediction task. It demonstrates distributed preprocessing and training in **Apache Spark**, experiment tracking and **Model Registry** with **MLflow**, S3-style artifact storage on **MinIO**, **automated promotion** of the best model, **drift checks**, and a production-style **FastAPI** service for inference.  
 > Everything is containerized and orchestrated with **Docker Compose** on **WSL2** (Windows 10/11).
