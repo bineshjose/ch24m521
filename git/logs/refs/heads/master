@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 f2b6e53c34ab105f79c336c8e5b1615cf928de0e ch24m521 <ch24m521@smail.iitm.ac.in> 1756232533 +0000	commit (initial): Bootstrap MLOps project (services, training, API, ops)
+f2b6e53c34ab105f79c336c8e5b1615cf928de0e 1fcdc48aba95a40fbb48486ffbd3a95c5439824d ch24m521 <ch24m521@smail.iitm.ac.in> 1756232750 +0000	commit: Stop tracking raw dataset in Git
+1fcdc48aba95a40fbb48486ffbd3a95c5439824d d120f6bdb1fc74be7f3156c588f153d110073c84 ch24m521 <ch24m521@smail.iitm.ac.in> 1756232926 +0000	commit: Track titanic.csv with DVC
+d120f6bdb1fc74be7f3156c588f153d110073c84 940288d9e9da0f4bb24c5081b5ede39c37b470e9 ch24m521 <ch24m521@smail.iitm.ac.in> 1756233074 +0000	commit: Add base .gitignore
+940288d9e9da0f4bb24c5081b5ede39c37b470e9 002622c840149dda4ff536eda2dd997504dd06bd ch24m521 <ch24m521@smail.iitm.ac.in> 1756287902 +0000	commit: Enforce LF line endings via .gitattributes and normalize files
