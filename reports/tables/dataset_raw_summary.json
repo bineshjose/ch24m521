@@ -1,0 +1,20 @@
+{
+  "n_rows": 891,
+  "n_cols": 12,
+  "target_positive": 342,
+  "target_negative": 549,
+  "missing_counts": {
+    "PassengerId": 0,
+    "Survived": 0,
+    "Pclass": 0,
+    "Name": 0,
+    "Sex": 0,
+    "Age": 177,
+    "SibSp": 0,
+    "Parch": 0,
+    "Ticket": 0,
+    "Fare": 0,
+    "Cabin": 687,
+    "Embarked": 2
+  }
+}

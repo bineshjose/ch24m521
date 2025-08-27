@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2025-08-27T10:52:06.945511+00:00",
+  "host_platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "host_python": "3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:09:02) [GCC 11.2.0]",
+  "cpu": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+  "mem_total_kb": "7962844",
+  "docker": "Docker version 28.3.2, build 578ccf6",
+  "docker_compose": "Docker Compose version v2.39.1-desktop.1",
+  "java_in_trainer": "openjdk version \"17.0.15-internal\" 2025-04-15",
+  "spark_in_trainer": "3.4.1",
+  "spark_in_jupyter": "ERR: Command '['bash', '-lc', 'docker compose exec -T jupyter-spark python -c \"import pyspark; print(pyspark.__version__)\"']' returned non-zero exit status 1.",
+  "mlflow_in_server": "3.3.1"
+}

@@ -1,0 +1,15 @@
+# api/environment.yml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - openjdk=17
+  - pip
+  - pip:
+      - fastapi
+      - uvicorn
+      - mlflow
+      - pandas
+      - requests
+      - boto3
+      - pyspark==3.4.1
